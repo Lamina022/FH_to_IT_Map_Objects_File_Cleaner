@@ -4,16 +4,16 @@ Readies a CFG file with object coordinates generated with FeralHeart for Impress
 ## How it works
 I've made a little script, which will turn FH-generated Objects.cfg files from this:
 
-> [MyTrees2/firTree.mesh]
-> 515.408 61.5376 3517.06;1.885 1.96 1.897
-> 1099.7 68.2354 3780.78;1.885 2.40801 1.897
+`[MyTrees2/firTree.mesh]
+515.408 61.5376 3517.06;1.885 1.96 1.897
+1099.7 68.2354 3780.78;1.885 2.40801 1.897`
 
 
  to this:
  
-> [firTree.mesh]
-> 515.408 61.5376 3517.06;1.885 1.96 1.897
-> 1099.7 68.2354 3780.78;1.885 2.40801 1.897
+`[firTree.mesh]
+515.408 61.5376 3517.06;1.885 1.96 1.897
+1099.7 68.2354 3780.78;1.885 2.40801 1.897`
 
 ## Requirements
  o	Basic setup of an Impressive Title server
