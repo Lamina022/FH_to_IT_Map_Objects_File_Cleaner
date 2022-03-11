@@ -36,8 +36,11 @@ Instructions: https://kito.forumotion.t3356-fh-to-it-map-converter-version-0-6?h
 
 ## GETTING STARTED:
 o Drop your SomeMapObjects.cfg files into this directory.
+
 o Do a right click on FH_to_IT_MapObjects_Cleaner.ps1 and choose "Open with Powershell"
+
 o It will now convert all your files. 
+
 o Check them for collisions and if there are some, convert them using the FH to IT Map Converter by JBRWolf
+
 o Copy your cleaned SomeMapObjects.cfg files back into your map folder on your server
-  
