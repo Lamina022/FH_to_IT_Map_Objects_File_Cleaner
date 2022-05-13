@@ -24,7 +24,7 @@ o Basic setup of an Impressive Title server
 	o Link: https://kito.forumotion.t532-download-and-instructions-compile-your-own-it
 	
 o Your game needs to be able to read FeralHeart coordinates for map objects
-	o Link to guide: https://drive.google.1x5HAmo51SI5Qnf7iy27i11NBu5-view?usp=sharing
+	o Link to guide: https://cdn.discordapp.com/attachments/948478699362205736/948482084987613195/ENG_FH_mapmaker.pdf
   
   
 ## Other:
