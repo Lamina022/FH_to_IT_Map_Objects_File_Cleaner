@@ -21,10 +21,12 @@ I've made a little script, which will turn FH-generated Objects.cfg files from t
 
 ## Requirements
 o Basic setup of an Impressive Title server
-	o Link: https://kito.forumotion.t532-download-and-instructions-compile-your-own-it
+
+o Link: https://kito.forumotion.t532-download-and-instructions-compile-your-own-it
 	
 o Your game needs to be able to read FeralHeart coordinates for map objects
-	o Link to guide: https://cdn.discordapp.com/attachments/948478699362205736/948482084987613195/ENG_FH_mapmaker.pdf
+
+o Link to guide: https://cdn.discordapp.com/attachments/948478699362205736/948482084987613195/ENG_FH_mapmaker.pdf
   
   
 ## Other:
